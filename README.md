@@ -1,8 +1,7 @@
-ParametricMultisubjectfMRI
-==========================
+EnlargeScopeNonparTests
+=======================
 
-Scripts for SPM, FSL and AFNI used for investigating the validity of parametric statistics for multi-subject fMRI.
+Code for running simulations on false alarm rate control using parametric and nonparametric statistical tests for effects in fMRI data.
 
-Eklund, A., Nichols, T., Knutsson, H., Cluster failure: Why fMRI inferences for spatial extent have inflated false-positive rates, PNAS, 2016
+Started the repository as a clone from https://github.com/wanderine/ParametricMultisubjectfMRI.git 
 
-http://www.pnas.org/content/113/28/7900.abstract
